@@ -1,1 +1,1 @@
-# AnalysisOfMotorActivity
+# Similarity graph
