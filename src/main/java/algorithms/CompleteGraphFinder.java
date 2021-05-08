@@ -1,4 +1,4 @@
-package algoritmer;
+package algorithms;
 
 import datastructures.graphs.CompleteSubgraph;
 import datastructures.graphs.AdjacencyList;

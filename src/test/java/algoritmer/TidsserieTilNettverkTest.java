@@ -1,5 +1,6 @@
 package algoritmer;
 
+import algorithms.TimeseriesToGraph;
 import datastructures.vo.Threshold;
 import datastructures.vo.ThresholdPercentage;
 import static org.testng.Assert.*;

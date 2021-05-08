@@ -1,7 +1,7 @@
 package gui;
 
-import algoritmer.CompleteGraphFinder;
-import algoritmer.TimeseriesToGraph;
+import algorithms.CompleteGraphFinder;
+import algorithms.TimeseriesToGraph;
 import datastructures.graphs.AdjacencyList;
 import datastructures.graphs.CompleteSubgraph;
 import datastructures.vo.Threshold;

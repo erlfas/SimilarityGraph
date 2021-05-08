@@ -1,4 +1,4 @@
-package algoritmer;
+package algorithms;
 
 import java.util.HashSet;
 import java.util.List;

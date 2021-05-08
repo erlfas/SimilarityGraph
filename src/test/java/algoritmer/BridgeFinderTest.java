@@ -1,5 +1,6 @@
 package algoritmer;
 
+import algorithms.BridgeFinder;
 import datastructures.graphs.Edge;
 import java.util.ArrayList;
 import java.util.List;

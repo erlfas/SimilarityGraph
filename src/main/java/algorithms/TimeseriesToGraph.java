@@ -1,4 +1,4 @@
-package algoritmer;
+package algorithms;
 
 import datastructures.graphs.AdjacencyList;
 import datastructures.graphs.v2.LayeredAdjacencyList;

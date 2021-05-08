@@ -1,5 +1,6 @@
 package algoritmer;
 
+import algorithms.CompleteGraphFinder;
 import datastructures.graphs.AdjacencyList;
 import datastructures.graphs.CompleteSubgraph;
 import static datastructures.graphs.UndirectedGraphExamples.adjacencyList10;

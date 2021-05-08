@@ -1,4 +1,4 @@
-package algoritmer;
+package algorithms;
 
 import datastructures.graphs.Edge;
 import java.util.ArrayList;
